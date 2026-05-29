@@ -1,2 +1,5 @@
 # useful-links
-yo windshield cracking patterns in BeamNG are so detailed its almost scary realistic deadass
+- GitHub Explore: https://github.com/explore
+- FreeCodeCamp: https://www.freecodecamp.org
+- W3Schools: https://www.w3schools.com
+- Stack Overflow: https://stackoverflow.com
