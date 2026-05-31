@@ -4,3 +4,4 @@
 - W3Schools: https://www.w3schools.com
 - Stack Overflow: https://stackoverflow.com
 - MDN Web Docs: https://developer.mozilla.org
+- MDN Web Docs: https://developer.mozilla.org
